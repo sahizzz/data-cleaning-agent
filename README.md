@@ -1,24 +1,25 @@
-# Data Cleaning Agent
+## 🚀 Advanced Features
 
-## Overview
-This project simulates a data cleaning environment where an agent performs actions to clean messy datasets.
+- Interactive AI data cleaning agent
+- Step-by-step action control
+- Real-time visualization of data improvement
+- Reward-based system for evaluating performance
+- Multiple difficulty levels (easy, medium, hard)
 
-## Features
-- Handles missing values
-- Removes duplicates
-- Supports multiple difficulty levels (easy, medium, hard)
+## 📊 Visualization
 
-## Actions
-- fill_mean
-- fill_median
-- drop_missing
-- remove_duplicates
-- done
+Tracks:
+- Missing values reduction
+- Duplicate removal
+- Cleaning progress over steps
 
-## Reward System
-- Rewards reduction of missing values
-- Rewards removal of duplicates
+## 🎮 Interaction
 
-## Run Project
-```bash
-python inference.py
+Users can:
+- Start environment
+- Apply actions manually
+- Observe changes dynamically
+
+## 🌐 Live Demo
+
+Deployed on Hugging Face Spaces
